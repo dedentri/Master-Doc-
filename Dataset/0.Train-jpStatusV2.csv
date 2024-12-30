@@ -1,0 +1,199 @@
+id_number,work_experience,emp_test_percentage,status
+153,No,98,Placed
+25,No,97.4,Placed
+119,Yes,97,Placed
+5,No,96.8,Placed
+117,Yes,96,Placed
+139,Yes,96,Placed
+73,No,95.5,Placed
+96,Yes,95.46,Placed
+188,Yes,95,Placed
+22,No,95,Placed
+44,No,95,Placed
+72,No,95,Placed
+27,Yes,94,Placed
+135,Yes,94,Placed
+193,Yes,93.4,Placed
+158,No,93.4,Placed
+40,No,93,Placed
+24,Yes,92,Placed
+91,No,92,Placed
+9,No,91.34,Placed
+130,Yes,90,Placed
+45,Yes,89,Placed
+178,Yes,89,Placed
+71,No,89,Placed
+116,No,89,Placed
+144,No,89,Placed
+34,Yes,88,Placed
+54,No,87,Placed
+2,Yes,86.5,Placed
+79,No,86.04,Placed
+82,Yes,86,Placed
+154,Yes,86,Placed
+74,No,86,Placed
+104,Yes,85,Placed
+147,No,85,Placed
+75,No,84.27,Placed
+84,Yes,84,Placed
+196,Yes,,
+109,No,84,Placed
+173,No,84,Placed
+148,No,83,Placed
+152,No,83,Placed
+120,Yes,82.66,Placed
+186,No,82,Placed
+129,Yes,81.2,Placed
+123,Yes,80.4,Placed
+132,Yes,80,Placed
+157,Yes,80,Placed
+194,Yes,80,Placed
+58,No,80,Placed
+108,No,80,Placed
+118,No,80,Placed
+86,Yes,78.74,Placed
+48,Yes,78,Placed
+197,NaN,NaN,Placed
+55,No,78,Placed
+102,No,78,Placed
+163,Yes,75.2,Placed
+161,Yes,75,Placed
+3,No,75,Placed
+126,No,75,Placed
+164,No,75,Placed
+133,Yes,74.4,Placed
+59,No,74,Placed
+29,Yes,73.35,Placed
+179,No,73,Placed
+114,No,72.15,Placed
+16,Yes,72,Placed
+93,No,72,Placed
+146,No,72,Placed
+192,No,72,Placed
+36,No,71,Placed
+56,No,71,Placed
+70,Yes,70,Placed
+127,Yes,70,Placed
+155,Yes,70,Placed
+99,No,70,Placed
+78,Yes,69,Placed
+67,No,68.92,Placed
+68,No,68.71,Placed
+14,No,68,Placed
+28,No,68,Placed
+57,No,68,Placed
+8,Yes,67,Placed
+81,Yes,67,Placed
+87,No,67,Placed
+97,Yes,66,Placed
+134,Yes,65,Placed
+51,No,65,Placed
+125,Yes,64,Placed
+175,Yes,64,Placed
+49,No,64,Placed
+172,Yes,63.79,Placed
+167,Yes,63,Placed
+11,Yes,62,Placed
+90,Yes,62,Placed
+62,No,61.6,Placed
+65,No,61,Placed
+77,No,61,Placed
+12,Yes,60,Placed
+17,Yes,60,Placed
+61,Yes,60,Placed
+124,Yes,60,Placed
+143,Yes,60,Placed
+41,No,60,Placed
+184,No,60,Placed
+198,No,?,Placed
+63,No,59,Placed
+140,Yes,58,Placed
+38,No,58,Placed
+89,No,58,Placed
+113,No,58,Placed
+60,No,57.6,Placed
+103,Yes,57.5,Placed
+111,No,57.2,Placed
+181,Yes,57,Placed
+149,No,57,Placed
+141,Yes,56,Placed
+151,Yes,56,Placed
+138,No,56,Placed
+122,Yes,55.67,Placed
+136,No,55.6,Placed
+23,No,55.53,Placed
+128,No,55.5,Placed
+85,Yes,55,Placed
+105,Yes,55,Placed
+1,No,55,Placed
+177,No,55,Placed
+95,No,53.88,Placed
+39,No,53.7,Placed
+115,No,53.7,Placed
+165,No,53.04,Placed
+31,No,52,Placed
+33,No,50.89,Placed
+20,Yes,50.48,Placed
+21,No,50,Placed
+190,No,95.65,Not Placed
+98,No,93.91,Not Placed
+66,No,89.69,Not Placed
+176,No,87.5,Not Placed
+110,Yes,86,Not Placed
+106,No,85,Not Placed
+131,No,84,Not Placed
+83,No,82,Not Placed
+166,No,80,Not Placed
+69,No,79,Not Placed
+137,No,78,Not Placed
+30,No,77,Not Placed
+26,Yes,76,Not Placed
+15,No,76,Not Placed
+180,No,75.5,Not Placed
+183,Yes,75,Not Placed
+80,No,75,Not Placed
+88,No,75,Not Placed
+7,No,74.28,Not Placed
+76,No,74,Not Placed
+121,No,73,Not Placed
+94,No,72,Not Placed
+53,No,71.2,Not Placed
+107,No,71,Not Placed
+64,No,68.5,Not Placed
+35,No,68.44,Not Placed
+19,No,68,Not Placed
+47,No,68,Not Placed
+52,No,67,Not Placed
+92,No,67,Not Placed
+174,No,67,Not Placed
+4,No,66,Not Placed
+42,Yes,65,Not Placed
+50,No,65,Not Placed
+150,Yes,64.25,Not Placed
+32,No,64,Not Placed
+37,No,64,Not Placed
+43,No,63,Not Placed
+182,No,63,Not Placed
+13,No,62,Not Placed
+160,No,62,Not Placed
+169,Yes,60,Not Placed
+18,No,60,Not Placed
+112,No,60,Not Placed
+142,No,60,Not Placed
+145,No,60,Not Placed
+159,No,60,Not Placed
+185,No,60,Not Placed
+195,No,59,Not Placed
+168,Yes,58.1,Not Placed
+171,No,58.06,Not Placed
+46,No,58,Not Placed
+162,No,57.63,Not Placed
+189,No,57,Not Placed
+101,Yes,56.39,Not Placed
+156,Yes,56.15,Not Placed
+6,Yes,55,Not Placed
+187,No,55,Not Placed
+170,No,54.48,Not Placed
+10,No,54,Not Placed
+100,No,50,Not Placed
+191,No,50,Not Placed
